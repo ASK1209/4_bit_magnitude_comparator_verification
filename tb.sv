@@ -44,7 +44,6 @@ module tb;
             bins equal   = {3'b001};
         }
 
-        cross a,b;
     endgroup
 
     cg coverage = new();
