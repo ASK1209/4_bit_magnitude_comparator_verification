@@ -65,7 +65,7 @@ The testbench follows a modern SystemVerilog verification strategy:
 2. **Functional Coverage**
    - Coverage is printed at the end of simulation using:
      ```
-     Coverage = 97.27%
+     Coverage = 100.00%
      ```
 
 3. **EPWave Analysis**
